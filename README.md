@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/15P8myXftNM-hmNZPBDs9kmzab62qUM9E/view?usp=drive_link">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1zF5lmx2T7s0EpNeeT_4UgFXx45BBhpPF/view?usp=sharing">
 
 
 <h1 align="center">Hi 👋, I'm Mani Mall</h1>
