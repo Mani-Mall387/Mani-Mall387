@@ -1,3 +1,6 @@
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/15P8myXftNM-hmNZPBDs9kmzab62qUM9E/view?usp=drive_link">
+
+
 <h1 align="center">Hi 👋, I'm Mani Mall</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 
