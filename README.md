@@ -1,5 +1,5 @@
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1zF5lmx2T7s0EpNeeT_4UgFXx45BBhpPF/view?usp=sharing">
 
+![logo](https://github.com/Mani-Mall387/Mani-Mall387/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mani Mall</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
